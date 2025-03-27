@@ -1,8 +1,8 @@
 {
-  "name": "vesper",
-  "displayName": "Vesper",
-  "publisher": "raunofreiberg",
-  "description": "Peppermint and orange flavored dark theme for VSCode.",
+  "name": "blue-vesper",
+  "displayName": "Blue Vesper",
+  "publisher": "lucasdoell",
+  "description": "Peppermint and ice flavored dark theme for VSCode.",
   "license": "MIT",
   "repository": {
     "type": "git",
@@ -19,7 +19,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Vesper",
+        "label": "Blue Vesper",
         "uiTheme": "vs-dark",
         "path": "./themes/Vesper-dark-color-theme.json"
       }
